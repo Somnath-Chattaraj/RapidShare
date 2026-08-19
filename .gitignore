@@ -2,3 +2,4 @@ build/
 uploads/
 received_files/
 *.part
+*.bin

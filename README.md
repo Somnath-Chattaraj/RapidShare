@@ -1,6 +1,6 @@
 # RapidShare
 
-RapidShare is a small C++17 client-server file transfer project. It sends files over TCP, continues interrupted uploads, verifies file integrity, and handles several clients at the same time.
+RapidShare is a small client-server file transfer project. It sends files over TCP, continues interrupted uploads, verifies file integrity, and handles several clients at the same time.
 
 ## Problem It Solves
 

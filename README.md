@@ -22,7 +22,7 @@ After receiving all chunks, the server verifies the final size and checksum. Onl
 
 ## System Design
 
-![RapidShare system design](docs/rapidshare-system-design-clean.drawio.png)
+![RapidShare system design](docs/rapidshare-system-design.drawio.png)
 
 ## Why It Is Better Than a Basic File Transfer
 
